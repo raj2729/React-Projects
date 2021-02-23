@@ -1,4 +1,4 @@
-# Animated Sliding Sign-Up and Login Form
+# Birthday Reminder React App
 
 # Hosted at 
 
@@ -18,6 +18,6 @@
 
 
 ## Usage
-```
-npm install
-```
+
+```npm install``` : To install all required dependencies
+
